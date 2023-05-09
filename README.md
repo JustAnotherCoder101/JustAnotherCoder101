@@ -7,4 +7,4 @@ _Why I Code:_
 - It can be fun
 
 
-I am working on the repos pinned above
+I am working on the repos pinned above.
