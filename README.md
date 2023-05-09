@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JustAnotherCoder101
 - I Like to code stuff
 
-_Why I Code:_
+Why I Code:
 
 - I want to make games
 - It can be fun
