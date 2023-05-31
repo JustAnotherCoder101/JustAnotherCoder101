@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @JustAnotherCoder101
+- This is my Github account 
 - I Like to code stuff
+
 
 Why I Code:
 
@@ -8,3 +10,4 @@ Why I Code:
 
 
 I am working on the repos pinned below.
+Check them out!
