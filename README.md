@@ -6,7 +6,7 @@
 Why I Code:
 
 - I want to make games
-- It can be fun
+- For fun
 
 
 I am working on the repos pinned below.
